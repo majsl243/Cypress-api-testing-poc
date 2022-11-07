@@ -1,0 +1,2 @@
+# Cypress API Testing - POC
+This is a proof of concept for API testing using Cypress. It is also an actual example of the usage of [request-factory-payload](https://www.npmjs.com/package/request-payload-factory) package.
